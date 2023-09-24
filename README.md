@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wasteless](https://github.com/klapperking/wasteless)
 
-- 🌱 Right now I´m learning **Ruby on Rails, Algorithms, Design Patterns**
+- 🌱 Right now I´m learning **Ruby on Rails, Algorithms, Design Patterns, Docker & Java**
 
 - 📫 How to reach me **martinklapper@tutanota.com**
 
